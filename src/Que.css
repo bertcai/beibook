@@ -1,0 +1,48 @@
+.table-banner{
+    display: block;
+    margin: 0 auto;
+    font-size: 30px;
+    color: #00a854;
+    text-align: center;
+}
+.ico{
+    display: inline-block;
+    margin-top: 10px;
+    margin-right: 20px;
+}
+
+.ico img{
+    width: 20px;
+    height: 17px;
+}
+.que{
+    font-size:18px;
+    line-height: 30px;
+}
+.que a{
+    color: #666;
+}
+
+.que a:hover{
+    color: rgb(32,158,133);
+    text-decoration:underline;
+}
+
+.item{
+    margin: 0 auto;
+    width: 80%;
+}
+
+.date{
+    font-size: 12px;
+}
+
+.ans{
+    margin-top: 5px;
+    font-size: 16px;
+}
+
+.page{
+    background-color: white;
+    height: 2000px;
+}
